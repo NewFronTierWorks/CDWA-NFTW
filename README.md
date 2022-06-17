@@ -4,7 +4,7 @@ An adaptation of Getty's Categories for Description of Works of Art (CDWA) to st
 Visit Getty to reference the original standard.
 https://www.getty.edu/research/publications/electronic_publications/cdwa/
 
-Visit https://NFTW-art.World for a real world implementation.
+Visit https://NFTW-art.World or https://nftw-art-world.web.app/ to experience a real world implementation.
 
 Visit https://NewFronTierWorks.com to learn more and get help building your own project.
 
